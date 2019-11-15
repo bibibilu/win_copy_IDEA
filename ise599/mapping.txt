@@ -1,0 +1,10 @@
+0	😂	_face_with_tears_of_joy_
+1	🙃	_upsidedown_face_
+2	😘	_face_blowing_a_kiss_
+3	😭	_loudly_crying_face_
+4	❤ 	_red_heart_
+5	💯	_hundred_points_
+6	🌚	_new_moon_face_
+7	🔥	_fire_
+8	🙌	_raised_hands_
+9	🔞	_no_one_under_eighteen_
